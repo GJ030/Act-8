@@ -62,6 +62,7 @@ public class Perro {
    public String Ladrar()
    {
        return "guau guau";
+
    }
 
    public String Comer (String TipoComida, Double CantidadGramos){
